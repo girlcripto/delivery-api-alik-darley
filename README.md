@@ -4,6 +4,7 @@ Como os usuários podem começar a usar o projeto
 O Projeto pode ser acompanhado através  dos links anexados nos commits. 
 Projeto desenvolvido no âmbito da **Fundação de Apoio à Tecnologia (FAT)**, como parte do curso de formação **Arquitetura de Sistemas - TI 033269**, ministrado pelo **Professor Engenheiro Anderson Rodrigues**.  
 Iniciativa do **Governo do Estado de São Paulo** em parceria com **Qualifica SP**.  
+Este é um projeto **BackEnd** com foco em soluções para empresas de delivery.
 
 ---
 
